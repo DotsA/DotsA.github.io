@@ -1,0 +1,17 @@
+
+body{
+	font-family: "Arial";
+ background-color:orange;
+}
+
+
+ h1 {color: orange;
+ 	background-color: white;
+ 	border: 1px dotted white;
+ 	letter-spacing: 1px;
+ }
+ h2 {color: orange;
+     background-color: black;
+ }
+ 
+ }

@@ -13,6 +13,7 @@ body{
 
 p {color: white;
 	font-weight:bold;
+	border: 1px dotted white;
 	letter-spacing: 3px;
 }
 
