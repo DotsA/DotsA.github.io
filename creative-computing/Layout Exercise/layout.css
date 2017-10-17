@@ -1,0 +1,36 @@
+body{
+	background-color:#DDDDDD;
+	color:#DDDDDD;
+	font-family: "arial"
+}
+
+
+#left-column{
+	float:left;
+	background-color: #001f3f;
+	width:40%;
+	position:relative;
+	padding:5%;
+	margin: 0;
+	transition: background-color 500ms;
+}
+
+#right-column{
+     float:right;
+     background-color:#FF4136;
+     width:40%;
+     position:relative;
+     padding:5%;
+     margin: 0
+
+}
+#footer{
+   position:absolute;
+   bottom: 0;
+   background-color:#3D9970;
+   width:100%
+}
+#left-column:hover{
+     background-color: orange;
+}
+
