@@ -1,0 +1,19 @@
+body{
+	background-color:orange; 
+	border: 5px solid white;
+    
+}
+
+img{
+	height: 50%;
+	width: 50%;
+	border: 15px solid white;
+	margin: 70px;
+	padding: 40px;
+}
+
+#body:hover{
+	background-color: pink;
+}
+
+#background-color
